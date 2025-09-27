@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz2components/static/css/main.f855e6bc.css",
+    "main.js": "/dz2components/static/js/main.8ecd77d6.js",
+    "index.html": "/dz2components/index.html",
+    "main.f855e6bc.css.map": "/dz2components/static/css/main.f855e6bc.css.map",
+    "main.8ecd77d6.js.map": "/dz2components/static/js/main.8ecd77d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8ecd77d6.js"
+  ]
+}
